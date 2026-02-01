@@ -1,0 +1,8 @@
+remote_theme: pages-themes/time-machine@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Afnan Ali Khan
+description: AI & ML-focused Computer Science graduate and Data Science Intern with strong experience 
+  in Python, NLP, and machine learning. Built projects in text summarization, data-driven 
+  web applications, and system optimization. Interested in applying AI to solve 
+  real-world problems and create measurable impact.
