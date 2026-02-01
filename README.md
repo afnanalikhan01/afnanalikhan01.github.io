@@ -102,6 +102,9 @@ ATME College of Engineering, Mysore
 ## 🤝 Let's Connect
 
 I’m always open to learning, collaboration, and exciting opportunities in AI & Data Science.
-📧 afnanalikhan191@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/afnan-ali-khan-513468233)
+
+📧 **Email:** [afnanalikhan191@gmail.com](mailto:afnanalikhan191@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/afnan-ali-khan-513468233](https://linkedin.com/in/afnan-ali-khan-513468233)  
+💻 **GitHub:** [github.com/AfnanAliKhan](https://github.com/AfnanAliKhan)
+
 📫 Feel free to reach out via email or LinkedIn!
