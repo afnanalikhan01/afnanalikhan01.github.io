@@ -2,8 +2,6 @@
 
 🎓 Computer Science Graduate (AI & ML)  
 📍 Mysore, Karnataka, India  
-📧 afnanalikhan191@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/afnan-ali-khan-513468233)
 
 ---
 
@@ -104,5 +102,6 @@ ATME College of Engineering, Mysore
 ## 🤝 Let's Connect
 
 I’m always open to learning, collaboration, and exciting opportunities in AI & Data Science.
-
+📧 afnanalikhan191@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/afnan-ali-khan-513468233)
 📫 Feel free to reach out via email or LinkedIn!
